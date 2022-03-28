@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Boris V 
+- 👋 Hi, I’m Boris Valle
 - AAS in Software Development
 - 👀 I’m interested in a opportunity to apply my knowledge and education in the field of software develpment. 
 - ▶️ I’m currently learning Javascript, Angular, React.js, Node.js, HTML, CSS, Algorythms, Data Structures. 
